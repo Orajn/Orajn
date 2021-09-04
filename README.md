@@ -1,4 +1,4 @@
-I'm Orajn, pretty new to coding, am learning python currently and don't know any other languages. If for some unknown reason you would like to reach me my discord is ```Oraj#5920```
+I'm Orajn, pretty new to coding, am learning python currently and don't know any other languages. If for some unknown reason you would like to reach me my discord is ```Orajn#5920```
 
 <!---
 Orajn/Orajn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
